@@ -14,27 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->!
 <h1 align="center">Hi 👋, I'm Adithya Om Saidupally</h1>
-<h3 align="center">A passionate student for Data science and Machine Learning from India</h3>
+<h3 align="center">A passionate student for Data science for Business Decisions from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyaom-saidupally" alt="adithyaom-saidupally" /></a> </p>
 
-- 🔭 I’m currently working on [Hr analytics dashboard](https://github.com/AdithyaOm-Saidupally/HR_analytics_dashboard)
-
 - 🌱 I’m currently learning **Python, SQL, DAV, ML**
 
-- 👯 I’m looking to collaborate on [Sales insights](https://github.com/AdithyaOm-Saidupally/Sales-Insights-Dashboard-)
+- 📫 Reach me at **theadithyaom@gmail.com**
 
-- 🤝 I’m looking for help with **Data pipeline projects**
+- Experience [Resume](https://drive.google.com/drive/folders/1TkGkzVkZuGEYYKutr9JN8Lq5K56DfSCz?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [to be uploaded](to be uploaded)
-
-- 📝 I regularly write articles on [to be uploaded](to be uploaded)
-
-- 📫 How to reach me **theadithyaom@gmail.com**
-
-- 📄 Know about my experiences [https://media.geeksforgeeks.org/auth/files/resume/4q4ihc7awbciuwidu0jl-adithyaom_resume6.pdf](https://media.geeksforgeeks.org/auth/files/resume/4q4ihc7awbciuwidu0jl-adithyaom_resume6.pdf)
-
-- ⚡ Fun fact **I am from electrical and electronics department, intrested in data management for businesses**
+- **I am from electrical and electronics department, intrested in data management for businesses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
