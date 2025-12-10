@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - Experience [Resume](https://drive.google.com/drive/folders/1TkGkzVkZuGEYYKutr9JN8Lq5K56DfSCz?usp=sharing)
 
-- **I am from electrical and electronics department, intrested in data management for businesses**
+- **I am from electrical and electronics department, intrested in data science for businesses decisions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
