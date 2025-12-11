@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyaom-saidupally" alt="adithyaom-saidupally" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL, DAV, ML**
+- 🌱 I’m currently learning **Python, SQL, DAV, ML, data science**
 
 - 📫 Reach me at **theadithyaom@gmail.com**
 
